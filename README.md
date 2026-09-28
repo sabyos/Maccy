@@ -1,3 +1,5 @@
+Clipster: Based on [Maccy](https://github.com/p0deje/Maccy) (MIT License), Copyright (c) 2025 Alex Rodionov.
+
 > [!WARNING]
 > **Beware of fake websites impersonating Maccy.** Malicious sites (such as `maccyapp.net` and `maccyapp.com`) distribute malware disguised as Maccy. [**maccy.app**](https://maccy.app) is the **only** official website.
 
